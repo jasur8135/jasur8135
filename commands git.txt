@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "message is f fs"
+git push
